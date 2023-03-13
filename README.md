@@ -1,2 +1,2 @@
-# turtle-circle
+# turtle-spirograph
 turtle drawing spirograph
